@@ -1,0 +1,8 @@
+# Ignore large datasets and cache
+__pycache__/
+*.ipynb_checkpoints/
+*.log
+*.tmp
+*.zip
+*.rar
+.DS_Store

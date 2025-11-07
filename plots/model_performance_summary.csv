@@ -1,0 +1,17 @@
+TaskType,Model,Accuracy,F1-Score,MSE
+Classification,AdaBoost,0.8618884323039464,0.8439639357780493,0.0
+Classification,Decision Tree,0.8702270246423688,0.851646792895698,0.0
+Classification,GaussianNB,0.8090835435889397,0.7656664158166641,0.0
+Classification,KNN,0.8867803086017257,0.8642594760725465,0.0
+Classification,Logistic Regression,0.844026396371815,0.8043611623978272,0.0
+Classification,MultinomialNB,0.8023630145069389,0.7506549153422909,0.0
+Classification,Random Forest,0.9218821527307556,0.9074004669228812,0.0
+Classification,SVM (RBF),0.9204335677967254,0.8929299428591602,0.0
+Clustering,Agglomerative Clustering,0.8426937591776453,0.0,0.0
+Clustering,KMeans,0.8426937591776453,0.0,0.0
+Regression,Bagging Regressor,0.0,0.0,1036.3976381569516
+Regression,Decision Tree Regressor,0.0,0.0,1991.6626987567995
+Regression,KNN Regressor,0.0,0.0,1089.9578907469831
+Regression,Linear Regression,0.0,0.0,1021.4763750399492
+Regression,Random Forest Regressor,0.0,0.0,1016.8250114657575
+Regression,SVR,0.0,0.0,1566.3503246398147
